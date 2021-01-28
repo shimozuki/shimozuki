@@ -5,7 +5,7 @@
 
 
 
-# Hello, folks! <img src="202af01200210c11a68ca2da7ef03321.gif" width="30px">
+# Hello, folks! <img src="202af01200210c11a68ca2da7ef03321.gif" width="50px">
 
 My name is Ahmad Robbiul Iman and I'm a software developer/DevOps engineer. I'm from indonesia, living in Indoneisia and I studied at Bumigora Mataran University. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
