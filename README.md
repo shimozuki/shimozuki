@@ -9,8 +9,6 @@
 
 My name is Ahmad Robbiul Iman and I'm a software developer/DevOps engineer. I'm from indonesia, living in Indoneisia and I studied at Bumigora Mataran University
 
-## &#x270d; Blog & Writing
-
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
