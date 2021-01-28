@@ -32,31 +32,11 @@ My name is Ahmad Robbiul Iman and I'm a software developer/DevOps engineer. I'm 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimozuki&bg_color=30,f6f6f6,833ab4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shimozuki&bg_color=30,f6f6f6,833ab4&title_color=fff&text_color=fff)
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<a href="https://github.com/shimozuki/shimozuki.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shimozuki&repo=shimozuki.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=30,f6f6f6,833ab4" />
+</a>
 
 
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<a href="https://github.com/shimozuki/restoranjepang">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shimozuki&repo=restoranjepang&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=30,f6f6f6,833ab4" />
+</a>    
