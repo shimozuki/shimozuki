@@ -25,7 +25,7 @@ My name is Ahmad Robbiul Iman and I'm a software developer/DevOps engineer. I'm 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=833ab4)
 ![](https://img.shields.io/badge/Tools-Android_studio-informational?style=flat&logo=Android&logoColor=white&color=833ab4)
 ![](https://img.shields.io/badge/Tools-Visual_studio_Code-informational?style=flat&logo=Visual-studio-code&logoColor=white&color=833ab4)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?style=flat&logo=Visual-studio-code&logoColor=white&color=833ab4page_id=shimozuki.shimozuki)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shimozuki.shimozuk&logoColor=white&color=833ab4)
 
 ## &#x1f4c8; GitHub Stats
 
