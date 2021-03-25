@@ -29,7 +29,7 @@ My name is Ahmad Robbiul Iman and I'm a software developer/DevOps engineer. I'm 
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimozuki13&bg_color=30,f6f6f6,833ab4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimozuki&bg_color=30,f6f6f6,833ab4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shimozuki&bg_color=30,f6f6f6,833ab4&title_color=fff&text_color=fff)
 
 <a href="https://github.com/shimozuki/shimozuki.github.io">
