@@ -40,4 +40,4 @@ My name is Ahmad Robbiul Iman and I'm a software developer/DevOps engineer. I'm 
 
 <a href="https://github.com/shimozuki/restoranjepang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shimozuki&repo=restoranjepang&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=30,f6f6f6,833ab4" />
-</a>    
+</a>   
