@@ -14,7 +14,7 @@ My name is Ahmad Robbiul Iman and I'm a software developer/DevOps engineer. I'm 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=833ab4)
 ![](https://img.shields.io/badge/Code-php-v?style=flat&logo=php&logoColor=white&color=833ab4)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=833ab4)
-![](https://img.shields.io/badge/Code-flutter-informational?style=flat&logo=python&logoColor=white&color=833ab4)
+![](https://img.shields.io/badge/Code-flutter-informational?style=flat&logo=flutter&logoColor=white&color=833ab4)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=833ab4)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=833ab4)
 ![](https://img.shields.io/badge/Tools-bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=833ab4)
