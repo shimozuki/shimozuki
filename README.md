@@ -50,13 +50,4 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=shimozuki&bg_color=30,f6f6f6,833ab4&title_color=fff&text_color=fff" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimozuki&bg_color=30,f6f6f6,833ab4&title_color=fff&text_color=fff&layout=compact" />
 </div>
-
-
-<a href="https://github.com/shimozuki/restoranjepang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shimozuki&repo=restoranjepang&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=30,f6f6f6,833ab4" />
-</a> 
-
-
-<a href="https://github.com/shimozuki/restoranjepang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shimozuki&repo=restoranjepang&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=30,f6f6f6,833ab4" />
-</a>   
+   
