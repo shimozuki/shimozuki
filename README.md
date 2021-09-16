@@ -49,7 +49,6 @@
 
 [facebook]: https://www.facebook.com/bi.raja.13/
 [instagram]: https://www.instagram.com/r.obbiul.013/
-//github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shimozuki&bg_color=30,f6f6f6,833ab4&title_color=fff&text_color=fff)
 
 <a href="https://github.com/shimozuki/shimozuki.github.io">
