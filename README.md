@@ -9,8 +9,8 @@
 
 ### Hi there, I'm Ahmad Robbiul Iman<img src="202af01200210c11a68ca2da7ef03321.gif" width="50px">
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=andes2912&color=blue)
-![Profile Views](https://komarev.com/ghpvc/?username=andes2912)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shimozuki&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=shimozuki)
 [![Twitter Follow](https://img.shields.io/twitter/follow/andri_desmana?color=blue&label=follow%20%40andri_desmana&logo=twitter&style=flat-square)][twitter]
 [![Website](https://img.shields.io/website?color=blue&label=andridesmana.pw&style=flat-square&up_message=Online&url=https%3A%2F%2Fandridesmana.pw)][website]
 ## I'm a web developer from Jakarta, Indonesia !
@@ -47,17 +47,8 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=shimozuki&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
----
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=andes2912&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andes2912&layout=compact" />
-</div>
-
-[website]: https://andridesmana.pw
-[twitter]: https://twitter.com/andri_desmana
-[instagram]: https://instagram.com/andridesmana
-[linkedin]: https://linkedin.com/in/andri-desmana
+[facebook]: https://www.facebook.com/bi.raja.13/
+[instagram]: https://www.instagram.com/r.obbiul.013/
 //github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shimozuki&bg_color=30,f6f6f6,833ab4&title_color=fff&text_color=fff)
 
