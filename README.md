@@ -50,6 +50,7 @@
 
 <a href="https://github.com/shimozuki/shimozuki.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shimozuki&repo=shimozuki.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=30,f6f6f6,833ab4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimozuki&layout=compact" />
 </a>
 
 
