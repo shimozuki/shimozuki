@@ -5,33 +5,62 @@
 
 
 
-# Hii  <img src="202af01200210c11a68ca2da7ef03321.gif" width="50px">
+<!-- # Hii  <img src="202af01200210c11a68ca2da7ef03321.gif" width="50px"> -->
 
-My name is Ahmad Robbiul Iman and I'm a software developer/DevOps engineer. I'm from indonesia, living in West Nusa Tenggara and I studied at Bumigora Mataran University
+### Hi there, I'm Andri Desmana - aka [andes2912][website] 👋
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=andes2912&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=andes2912)
+[![Twitter Follow](https://img.shields.io/twitter/follow/andri_desmana?color=blue&label=follow%20%40andri_desmana&logo=twitter&style=flat-square)][twitter]
+[![Website](https://img.shields.io/website?color=blue&label=andridesmana.pw&style=flat-square&up_message=Online&url=https%3A%2F%2Fandridesmana.pw)][website]
+## I'm a web developer from Jakarta, Indonesia !
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=833ab4)
-![](https://img.shields.io/badge/Code-php-v?style=flat&logo=php&logoColor=white&color=833ab4)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=833ab4)
-![](https://img.shields.io/badge/Code-flutter-informational?style=flat&logo=flutter&logoColor=white&color=833ab4)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=833ab4)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=833ab4)
-![](https://img.shields.io/badge/Tools-bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=833ab4)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=833ab4)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=833ab4)
-![](https://img.shields.io/badge/Tools-firebase-informational?style=flat&logo=firebase&logoColor=white&color=833ab4)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=833ab4)
-![](https://img.shields.io/badge/Code-LARAVEL-informational?style=flat&logo=Laravel&logoColor=white&color=833ab4)
-![](https://img.shields.io/badge/Code-Codeigniter-informational?style=flat&logo=Codeigniter&logoColor=white&color=833ab4)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=833ab4)
-![](https://img.shields.io/badge/Tools-Android_studio-informational?style=flat&logo=Android&logoColor=white&color=833ab4)
-![](https://img.shields.io/badge/Tools-Visual_studio_Code-informational?style=flat&logo=Visual-studio-code&logoColor=white&color=833ab4)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shimozuki.shimozuk&logoColor=white&color=833ab4)
+- 🌱 I’m currently learning Laravel & VueJS
+- 👯 I’m looking to collaborate with other developer
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to read and play games
 
-## &#x1f4c8; GitHub Stats
+### Connect with me:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimozuki&bg_color=30,f6f6f6,833ab4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[<img align="left" alt="andridesmana.pw" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="andri_desmana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="andri-desmana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="andridesmana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="XCODE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+
+<br /> <br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=andes2912&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=andes2912&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andes2912&layout=compact" />
+</div>
+
+[website]: https://andridesmana.pw
+[twitter]: https://twitter.com/andri_desmana
+[instagram]: https://instagram.com/andridesmana
+[linkedin]: https://linkedin.com/in/andri-desmana
+//github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shimozuki&bg_color=30,f6f6f6,833ab4&title_color=fff&text_color=fff)
 
 <a href="https://github.com/shimozuki/shimozuki.github.io">
