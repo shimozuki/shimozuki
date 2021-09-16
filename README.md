@@ -11,8 +11,6 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shimozuki&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=shimozuki)
-[![Twitter Follow](https://img.shields.io/twitter/follow/andri_desmana?color=blue&label=follow%20%40andri_desmana&logo=twitter&style=flat-square)][twitter]
-[![Website](https://img.shields.io/website?color=blue&label=andridesmana.pw&style=flat-square&up_message=Online&url=https%3A%2F%2Fandridesmana.pw)][website]
 ## I'm a web developer from Jakarta, Indonesia !
 
 - 🌱 I’m currently learning Laravel & Flutter
