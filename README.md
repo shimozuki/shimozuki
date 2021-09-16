@@ -46,8 +46,10 @@
 
 [facebook]: https://www.facebook.com/bi.raja.13/
 [instagram]: https://www.instagram.com/r.obbiul.013/
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shimozuki&bg_color=30,f6f6f6,833ab4&title_color=fff&text_color=fff)
-(https://ithub-readme-stats.vercel.app/api/top-langs/?username=shimozuki&bg_color=30,f6f6f6,833ab4&title_color=fff&text_color=fff)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=shimozuki&bg_color=30,f6f6f6,833ab4&title_color=fff&text_color=fff" />
+  <img src="https://ithub-readme-stats.vercel.app/api/top-langs/?username=shimozuki&bg_color=30,f6f6f6,833ab4&title_color=fff&text_color=fff" />
+</div>
 
 
 <a href="https://github.com/shimozuki/restoranjepang">
