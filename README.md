@@ -48,10 +48,10 @@
 [instagram]: https://www.instagram.com/r.obbiul.013/
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shimozuki&bg_color=30,f6f6f6,833ab4&title_color=fff&text_color=fff)
 
-<a href="https://github.com/shimozuki/shimozuki.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shimozuki&repo=shimozuki.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=30,f6f6f6,833ab4" />
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=shimozuki&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimozuki&layout=compact" />
-</a>
+</div>
 
 
 <a href="https://github.com/shimozuki/restoranjepang">
