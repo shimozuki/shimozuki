@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ahmad Robbiul Iman | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
+[<img align="left" alt="Ahmad Robbiul Iman | facebook" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/facebook/facebook.png"/>][facebook]
 [<img align="left" alt="Ahmad Robbiul Iman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
 <br />
