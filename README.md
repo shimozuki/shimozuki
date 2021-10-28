@@ -19,8 +19,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ahmad Robbiul Iman | facebook" width="22px" src="https://cdn.cdnlogo.com/logos/f/84/facebook.svg"/>][facebook]
-[<img align="left" alt="Ahmad Robbiul Iman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="Ahmad Robbiul Iman | facebook" width="22px" src="https://cdn.cdnlogo.com/logos/f/9/facebook.svg"/>][facebook]
+[<img align="left" alt="Ahmad Robbiul Iman | Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg"/>][instagram]
 
 <br />
 
