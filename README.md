@@ -11,9 +11,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shimozuki&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=shimozuki)
-## I'm a web developer from Jakarta, Indonesia !
-
-- 🌱 I’m currently learning Laravel & Flutter
+## I'm a web developer from West Nusa Tenggara, Indonesia
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: play games
 
