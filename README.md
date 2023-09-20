@@ -8,6 +8,7 @@
 <!-- # Hii  <img src="202af01200210c11a68ca2da7ef03321.gif" width="50px"> -->
 
 ### Hi there, I'm Shimozuki<img src="202af01200210c11a68ca2da7ef03321.gif" width="50px">
+![readmebox (1)]([https://github.com/Rdx11/Rdx11/assets/34431847/a4ad0e76-297d-4387-9322-09d83c233689](https://github-production-user-asset-6210df.s3.amazonaws.com/34431847/258598204-a4ad0e76-297d-4387-9322-09d83c233689.svg)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shimozuki&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=shimozuki)
