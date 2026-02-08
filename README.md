@@ -28,7 +28,11 @@
 <img align="left" alt="Golang" width="26px" src="https://icon.icepanel.io/Technology/svg/Go.svg" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
-<br /> <br/>
+<br /> 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimozuki&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p>
+<br/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
