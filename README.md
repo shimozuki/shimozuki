@@ -19,8 +19,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ahmad Robbiul Iman | facebook" width="22px" src="https://cdn.cdnlogo.com/logos/f/91/facebook-icon.svg"/>][facebook]
-[<img align="left" alt="Ahmad Robbiul Iman | Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg"/>][instagram]
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shimozuki&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimozuki&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 <br />
 
@@ -40,5 +43,4 @@
   <img width=800 src="https://github-profile-trophy-kannan.vercel.app/?username=shimozuki&theme=onedark"/>
 </a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimozuki&layout=compact&theme=tokyonight&langs_count=10" />
 
