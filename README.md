@@ -17,14 +17,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: play games
 
-### Connect with me:
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shimozuki&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimozuki&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
 <br />
 
 ### Languages and Tools:
