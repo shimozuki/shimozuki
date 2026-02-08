@@ -40,4 +40,5 @@
   <img width=800 src="https://github-profile-trophy-kannan.vercel.app/?username=shimozuki&theme=onedark"/>
 </a>
 
-   
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimozuki&layout=compact&theme=tokyonight&langs_count=10" />
+
