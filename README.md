@@ -3,6 +3,15 @@
 
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
+<p align="center">
+  <picture>
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-v5-mobile-dark.svg">
+    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-v5-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-v5-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-v5-light.svg">
+    <img src="./assets/header.png" alt="Wildan Syukri Niam - AI Researcher and Web3 Builder" width="100%">
+  </picture>
+</p>
 
 
 <!-- # Hii  <img src="202af01200210c11a68ca2da7ef03321.gif" width="50px"> -->
